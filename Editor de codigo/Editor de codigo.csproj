@@ -86,5 +86,53 @@
   <ItemGroup>
     <None Include="Resources\imagen2.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editorimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tijera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3309120.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\225454.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2406268.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copiar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7890261.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1214926.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\112-1122932_icono-nuevo-archivo-new-new-file-icon-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32743.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-blue-diskette-icon-computer-icons-floppy-disk-save-button-miscellaneous-blue-angle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486564399-close_81512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-paper-file-folder-directory-computer-file-vector-folder-5a9ce9327f8634.1848551815202327545224.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editorimage1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagen21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33091201.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
